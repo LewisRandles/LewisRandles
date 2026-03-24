@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a software engineer with a passion for creating clean, user-friendly websites and web applications. I enjoy working with HTML, CSS, JavaScript, and frameworks such as React to build fast, reliable and responsive websites.
+I'm a software engineer focused on JavaScript and frontend development, building clean, well-structured web applications that make complex, high-density data accessible and usable. Projects span API integration and data transformation across energy grid systems, aerospace, and motorsport domains.
 
 When I’m not coding, you can find me exploring my other interests:
 
